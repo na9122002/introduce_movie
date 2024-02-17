@@ -17,16 +17,7 @@ class _Login_ScreenState extends State<Login_Screen> {
         padding: const EdgeInsets.all(10),
         child: ListView(
           children: <Widget>[
-            Container(
-                alignment: Alignment.center,
-                padding: const EdgeInsets.all(10),
-                child: const Text(
-                  'TutorialKart',
-                  style: TextStyle(
-                      color: Colors.blue,
-                      fontWeight: FontWeight.w500,
-                      fontSize: 30),
-                )),
+           
             Container(
                 alignment: Alignment.center,
                 padding: const EdgeInsets.all(10),
